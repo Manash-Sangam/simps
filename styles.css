@@ -1,0 +1,59 @@
+*{
+margin: 20px;
+padding: 10px;
+}
+h1
+{
+margin:2px;
+padding:1px;
+border:2px solid #540;
+border-radius:10px;
+background-image:url("wood.jpg");
+text-align:center;
+font-family:Times-New-Roman;
+color:#963;
+font-size:70px;
+text-transform: uppercase;
+}
+body
+{
+background-image:url("banana.jpg");
+}
+.about{
+background-image:url("whitebg.jpg");
+background-size: contain;
+border-radius:10px;
+}
+h2{
+padding:1px;
+border: 2px solid #fff;
+font-family: Times-New-Roman;
+font-size: 54px;
+color: #640;
+text-decoration:underline 5px;
+text-decoration-color:#640;
+text-align: left;
+}
+h4{
+font-family:Times-New-Roman;
+font-size:32px;
+text-align:justify;
+color: #000;
+}
+img{
+float:left;
+width:350px;
+height:450px;
+padding: 10px 10px 10px 10px;
+margin: 20px;
+border: 5px solid #540;
+border-radius: 10px;
+}
+.section{
+background-image:url("whitebg.jpg");
+height: 620px;
+border-radius:10px;
+}
+.text{
+text-align:justify;
+}
